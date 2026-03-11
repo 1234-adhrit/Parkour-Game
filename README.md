@@ -24,3 +24,8 @@ Open http://localhost:3000.
 - Use HTTPS in production so pointer lock and browser APIs work reliably.
 - The client imports Three.js from a CDN, so the published site needs internet access.
 
+## Play Online
+
+- https://adhrit-parkour-game.onrender.com
+
+
